@@ -3,6 +3,10 @@
 A new Flutter project.
 This is Simple Example of Flutter App, which has google login and facebook login integrated, and also implemented firebase auth in this app.
 
+# Screenshots
+![Login Screen](/Screenshot_20190621-115243_sociallogin.png)
+![SignUp Screen](/Screenshot_20190621-115408_sociallogin.png)
+![Home Screen](/Screenshot_20190621-115419_sociallogin.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
