@@ -1,6 +1,7 @@
 # sociallogin
 
 A new Flutter project.
+This is Simple Example of Flutter App, which has google login and facebook login integrated, and also implemented firebase auth in this app.
 
 ## Getting Started
 
